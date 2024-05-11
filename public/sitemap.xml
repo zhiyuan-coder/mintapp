@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mintapp.top/post/first/</loc>
+    <loc>http://mintapp.top/post/first/</loc>
     <lastmod>2023-08-22T10:57:48+08:00</lastmod>
   </url><url>
-    <loc>https://mintapp.top/</loc>
+    <loc>http://mintapp.top/</loc>
     <lastmod>2023-08-22T10:57:48+08:00</lastmod>
   </url><url>
-    <loc>https://mintapp.top/post/</loc>
+    <loc>http://mintapp.top/post/</loc>
     <lastmod>2023-08-22T10:57:48+08:00</lastmod>
   </url><url>
-    <loc>https://mintapp.top/about/</loc>
+    <loc>http://mintapp.top/about/</loc>
     <lastmod>2023-08-22T10:56:17+08:00</lastmod>
   </url><url>
-    <loc>https://mintapp.top/categories/</loc>
+    <loc>http://mintapp.top/categories/</loc>
   </url><url>
-    <loc>https://mintapp.top/tags/</loc>
+    <loc>http://mintapp.top/tags/</loc>
   </url>
 </urlset>
